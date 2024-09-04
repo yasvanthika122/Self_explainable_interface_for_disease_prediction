@@ -14,13 +14,8 @@ This project is a Streamlit-based web application for predicting diseases such a
 
 ## How to Run the Application
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yasvanthika122/Self_explainable_interface_for_disease_prediction.git
-   cd Self_explainable_interface_for_disease_prediction
- 2.**Install the required dependencies:**
-   ```bash
-    pip install -r requirements.txt
-   3.**Run the application:**
-    ```bash
+```bash
+git clone https://github.com/yasvanthika122/Self_explainable_interface_for_disease_prediction.git
+cd Self_explainable_interface_for_disease_prediction
+pip install -r requirements.txt
 python -m streamlit run app.py
