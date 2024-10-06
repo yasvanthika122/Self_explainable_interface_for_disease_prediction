@@ -19,7 +19,7 @@ git clone https://github.com/yasvanthika122/Self_explainable_interface_for_disea
 cd Self_explainable_interface_for_disease_prediction
 pip install -r requirements.txt
 python -m streamlit run app.py
-
+```
 
 ![Screenshot 2024-10-06 222224](https://github.com/user-attachments/assets/73b7917b-bbb2-4501-8c66-1a847576a53e)
 
